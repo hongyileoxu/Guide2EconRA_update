@@ -56,7 +56,7 @@
 - David Childers - [Causal Econometrics](https://donskerclass.github.io/CausalEconometrics.html)
 - Kosuke Imai - [Causal Inference with Applications](https://imai.fas.harvard.edu/teaching/cause.html)
 - Matheus Facure Alves - [Causal Inference for The Brave and True](https://matheusfacure.github.io/python-causality-handbook/landing-page.html)
-
+- Perter Hull - [Metrics Notes](https://about.peterhull.net/metrix)
 
 
 ## Python - Econ Lectures
